@@ -1,0 +1,1 @@
+print('Adicionando funções novas')
